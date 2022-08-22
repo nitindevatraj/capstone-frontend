@@ -1,0 +1,16 @@
+.header {
+  height: 3.5rem;
+  background-color: #313041;
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  color: white;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 12px;
+  left: 50px;
+}

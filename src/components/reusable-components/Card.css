@@ -1,0 +1,9 @@
+.card {
+  height: 33rem;
+  width: 50rem;
+  position: absolute;
+  top: 6rem;
+  right: 8rem;
+  background-color: #e8604c;
+  border-radius: 10px;
+}

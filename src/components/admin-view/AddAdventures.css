@@ -1,0 +1,41 @@
+.form {
+  border: 5px solid #e8604c;
+  border-radius: 10px;
+  background-color: white;
+  height: 25rem;
+  width: 50rem;
+  z-index: 1;
+  position: fixed;
+  top: 7rem;
+  left: calc(50% - 25rem);
+  color: #e8604c;
+  padding: 50px;
+}
+
+.col-25 {
+  float: left;
+  width: 30%;
+  margin-top: 6px;
+  margin-left: 25px;
+}
+
+.col-25 label {
+  font-weight: 600;
+}
+
+.col-75 {
+  float: left;
+  width: 60%;
+  margin-top: 6px;
+}
+
+.add-button {
+  background-color: #e8604c;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  clear: both;
+  display: block;
+  padding: 5px 10px;
+}

@@ -1,0 +1,62 @@
+.booking-modal-container {
+  border: 5px solid #e8604c;
+  border-radius: 10px;
+  background-color: white;
+  height: 18rem;
+  width: 45rem;
+  z-index: 1;
+  position: fixed;
+  top: 10rem;
+  left: calc(50% - 25rem);
+  color: black;
+  padding: 40px;
+  margin: 0;
+}
+
+.booking-modal-child1 {
+  width: 55%;
+  display: block;
+  height: 15rem;
+  background-color: aqua;
+  margin: 0;
+  float: left;
+  margin-right: 25px;
+}
+
+.booking-modal-child1 img {
+  width: 100%;
+}
+
+.booking-modal-child2 {
+  width: 30%;
+  display: block;
+  height: 15rem;
+  margin: 0;
+  float: left;
+  margin-left: 25px;
+  text-align: left;
+  padding: 15px;
+}
+
+.modal-des_name {
+  margin: 0;
+}
+
+.modal-des_desc {
+  height: 182px;
+}
+
+.modal-des_btn {
+  background-color: #e8604c;
+  color: white;
+  width: 80px;
+  text-align: center;
+  padding: 5px;
+  display: inline-block;
+  margin: 2px;
+}
+
+.modal-des_btn:hover {
+  transform: translateY(3px);
+  cursor: pointer;
+}

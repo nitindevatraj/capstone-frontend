@@ -1,0 +1,53 @@
+.TravelBlogModalContainer {
+  border: 5px solid #e8604c;
+  border-radius: 10px;
+  background-color: white;
+  height: auto;
+  width: 65rem;
+  z-index: 1;
+  position: absolute;
+  top: 0rem;
+  left: calc(50% - 32rem);
+  color: #e8604c;
+  padding: 30px;
+}
+
+.modal-container-child1 {
+  width: 58%;
+  float: left;
+  height: 100%;
+  margin-right: 5px;
+}
+
+.modal-container-child1 img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.modal-container-child2 {
+  width: 39%;
+  height: 100%;
+  float: left;
+  margin-left: 5px;
+}
+
+.modal-card-name {
+  margin: 15px 5px;
+  color: #e8604c;
+}
+
+.modal-card-desc {
+  margin: 15px 5px;
+  min-height: 110px;
+  width: 150px;
+  color: #e8604c;
+}
+
+.modal-card-btn {
+  margin: 15px 5px;
+  background-color: #e8604c;
+  color: white;
+  padding: 2px;
+  width: 60px;
+}

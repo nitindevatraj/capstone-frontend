@@ -1,0 +1,21 @@
+.travel-product {
+  width: 300px;
+  margin: 20px;
+}
+
+.travel-product-image {
+  width: 300px;
+}
+
+.travel-product-name {
+  color: #e8604c;
+  margin: 3px auto;
+}
+
+.travel-product-shop-btn {
+  color: white;
+  background-color: #e8604c;
+  width: 60px;
+  margin: 5px;
+  height: 30px;
+}

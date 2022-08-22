@@ -1,0 +1,25 @@
+.booking-des {
+  width: 300px;
+  margin: 20px;
+}
+
+.booking-des__img {
+  width: 300px;
+}
+
+.booking-des_name {
+  color: black;
+  margin: 3px auto;
+}
+
+.booking-des_desc {
+  display: none;
+}
+
+.booking-des__btn {
+  color: white;
+  background-color: #e8604c;
+  width: 80px;
+  margin: 5px;
+  height: 30px;
+}

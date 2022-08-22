@@ -1,0 +1,29 @@
+.profile_container {
+  background-color: rgba(232, 96, 76, 1);
+  height: 30rem;
+  width: 23rem;
+  position: absolute;
+  top: 6rem;
+  left: 7rem;
+  border-radius: 10px;
+}
+
+.profile_pic {
+  height: 18rem;
+  margin: 3rem;
+  width: auto;
+}
+
+.profile_name {
+  font-weight: 500;
+  font-size: 24px;
+  margin: 0;
+  text-align: center;
+}
+
+.profile_role {
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0;
+  text-align: center;
+}
